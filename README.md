@@ -2,5 +2,6 @@
 ##Tool For Computation operation count 
 https://dgschwend.github.io/netscope
 
-macc : A*b+c /n
+macc : A*b+c <br>
+
 comp : compare count ,ex:MAX(A,B)
